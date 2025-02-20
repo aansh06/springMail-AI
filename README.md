@@ -65,8 +65,10 @@ cd springMail-AI
 
 ## 📸 **Screenshots**
 ### 🔹 Web Interface  
+![Web UI](springmail-ai-react/src/assets/ui.png)
 
 ### 🔹 Gmail Extension  
+![Web UI](springmail-ai-react/src/assets/ext.png)
 
 ---
 
